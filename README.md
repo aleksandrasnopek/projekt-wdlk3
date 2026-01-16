@@ -110,6 +110,7 @@ Uruchom kompilację pliku main.tex.
 
 Wygenerowany plik PDF pojawi się w odpowiednim katalogu.
 
+test zmian
 
 
 
