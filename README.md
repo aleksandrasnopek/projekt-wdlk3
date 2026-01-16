@@ -144,6 +144,7 @@ Nadaj prawa do uruchomienia skryptów (jeśli wymagane):
 
 chmod +x duplicates.sh
 chmod +x classify.sh
+linia testowa PR
 
 
 Uruchom wybrany skrypt:
